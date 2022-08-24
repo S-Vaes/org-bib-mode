@@ -7,7 +7,7 @@
 ;; Keywords: convenience
 ;; Version: 0.4.0
 
-;; Package-Requires: ((emacs "27.1") ("org-imenu") ("pdf-drop-mode"))
+;; Package-Requires: ((emacs "27.1") (org-imenu) (pdf-drop-mode))
 
 ;; This file is not part of GNU Emacs.
 
